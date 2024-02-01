@@ -1,0 +1,68 @@
+<?xml version="1.0"?>
+<rss version="2.0">
+    <channel>
+        <title></title>
+        <subtitle>梦中不知天在水，满船清梦压星河</subtitle>
+        <icon>http://example.com/images/favicon.ico</icon>
+        <link>http://example.com</link>
+        <author>
+          <name>无言人间雨</name>
+        </author>
+        <description></description>
+        <language>zh-CN</language>
+        <pubDate>Thu, 01 Feb 2024 14:33:13 +0800</pubDate>
+        <lastBuildDate>Thu, 01 Feb 2024 14:33:13 +0800</lastBuildDate>
+        <item>
+            <guid isPermalink="true">http://example.com/2024/02/01/%E6%AC%A2%E8%BF%8E%E6%9D%A5%E5%88%B0%E6%88%91%E7%9A%84%E5%8D%9A%E5%AE%A2/</guid>
+            <title>欢迎来到我的博客</title>
+            <link>http://example.com/2024/02/01/%E6%AC%A2%E8%BF%8E%E6%9D%A5%E5%88%B0%E6%88%91%E7%9A%84%E5%8D%9A%E5%AE%A2/</link>
+            <pubDate>Thu, 01 Feb 2024 14:33:13 +0800</pubDate>
+            <description><![CDATA[ &lt;p&gt;​	欢迎来到我的博客！&lt;/p&gt;
+ ]]></description>
+        </item>
+        <item>
+            <guid isPermalink="true">http://example.com/2024/01/25/essay/%E8%AE%BA%E7%BA%AF%E7%88%B1/</guid>
+            <title>论纯爱</title>
+            <link>http://example.com/2024/01/25/essay/%E8%AE%BA%E7%BA%AF%E7%88%B1/</link>
+            <category term="杂谈随笔" scheme="http://example.com/categories/essay/" />
+            <pubDate>Thu, 25 Jan 2024 14:27:28 +0800</pubDate>
+            <description><![CDATA[ &lt;p&gt;​	未完待续&lt;/p&gt;
+ ]]></description>
+        </item>
+        <item>
+            <guid isPermalink="true">http://example.com/2024/01/25/music/%E5%A4%9C%E3%81%AE%E5%90%91%E6%97%A5%E8%91%B5/</guid>
+            <title>夜の向日葵</title>
+            <link>http://example.com/2024/01/25/music/%E5%A4%9C%E3%81%AE%E5%90%91%E6%97%A5%E8%91%B5/</link>
+            <category term="音乐欣赏" scheme="http://example.com/categories/music/" />
+            <category term="松本文纪" scheme="http://example.com/categories/music/%E6%9D%BE%E6%9C%AC%E6%96%87%E7%BA%AA/" />
+            <category term="纯音乐" scheme="http://example.com/tags/%E7%BA%AF%E9%9F%B3%E4%B9%90/" />
+            <pubDate>Thu, 25 Jan 2024 14:27:18 +0800</pubDate>
+            <description><![CDATA[ &lt;p&gt;&lt;div class=&#34;media-container&#34;&gt;&lt;div class=&#34;player&#34; data-type=&#34;audio&#34; data-src=&#39;[&#34;https://music.163.com/#/song?id=4937357&#34;]&#39;&gt;&lt;/div&gt;&lt;/div&gt;&lt;/p&gt;
+&lt;p&gt;未完待续&lt;/p&gt;
+ ]]></description>
+        </item>
+        <item>
+            <guid isPermalink="true">http://example.com/2024/01/25/game/%E7%A7%BD%E7%BF%BC%E7%9A%84%E5%B0%A4%E6%96%AF%E8%92%82%E5%A8%85%E2%80%94%E2%80%94%E6%9C%AB%E6%97%A5%E4%B8%AD%E7%9A%84%E6%95%91%E8%B5%8E/</guid>
+            <title>秽翼的尤斯蒂娅——末日中的救赎</title>
+            <link>http://example.com/2024/01/25/game/%E7%A7%BD%E7%BF%BC%E7%9A%84%E5%B0%A4%E6%96%AF%E8%92%82%E5%A8%85%E2%80%94%E2%80%94%E6%9C%AB%E6%97%A5%E4%B8%AD%E7%9A%84%E6%95%91%E8%B5%8E/</link>
+            <category term="游戏评测" scheme="http://example.com/categories/game/" />
+            <category term="视觉小说" scheme="http://example.com/categories/game/%E8%A7%86%E8%A7%89%E5%B0%8F%E8%AF%B4/" />
+            <category term="八月社" scheme="http://example.com/categories/game/%E8%A7%86%E8%A7%89%E5%B0%8F%E8%AF%B4/%E5%85%AB%E6%9C%88%E7%A4%BE/" />
+            <category term="galgame" scheme="http://example.com/tags/galgame/" />
+            <pubDate>Thu, 25 Jan 2024 14:27:11 +0800</pubDate>
+            <description><![CDATA[ &lt;p&gt;&lt;div class=&#34;media-container&#34;&gt;&lt;div class=&#34;player&#34; data-type=&#34;audio&#34; data-src=&#39;[&#34;https://music.163.com/#/song?id=692566&#34;]&#39;&gt;&lt;/div&gt;&lt;/div&gt;&lt;/p&gt;
+&lt;p&gt;未完待续&lt;/p&gt;
+ ]]></description>
+        </item>
+        <item>
+            <guid isPermalink="true">http://example.com/2024/01/25/study/study/</guid>
+            <title>study</title>
+            <link>http://example.com/2024/01/25/study/study/</link>
+            <category term="学习资料" scheme="http://example.com/categories/study/" />
+            <category term="2024spring" scheme="http://example.com/categories/study/2024spring/" />
+            <pubDate>Thu, 25 Jan 2024 13:45:11 +0800</pubDate>
+            <description><![CDATA[ &lt;p&gt;​	未完待续&lt;/p&gt;
+ ]]></description>
+        </item>
+    </channel>
+</rss>
